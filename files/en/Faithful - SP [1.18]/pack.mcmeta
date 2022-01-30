@@ -1,9 +1,6 @@
 {
    "pack": {
       "pack_format": 8,
-      "description": {
-         "text": "Shulker Box tooltip preview: resource pack",
-         "color": "#8fdff7"
-      }
+      "description": "Faithful for §fShulker Preview§r\n§6Author:§r §cxMrVizzy"
    }
 }
